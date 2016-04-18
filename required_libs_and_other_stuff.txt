@@ -1,0 +1,14 @@
+This project requires LibGDX. Specifically these libs:
+- gdx.jar
+- gdx-audio.jar
+- gdx-audio-natives.jar
+- gdx-backend-lwjgl.jar
+- gdx-backend-lwjgl-natives.jar
+- gdx-freetype.jar
+- gdx-freetype.natives.jar
+- gdx-natives.jar
+
+This source code is not reusable. Probably more than half of it is hard coded.
+I ~~really~~ do not recommend using it.
+Third party assets (fonts) are free to use for personal projects.
+The music (xy_final.ogg) belongs to Rafael Giordanno and is copyrighted.
